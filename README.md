@@ -3,7 +3,7 @@
 
 Description:
 
-Alienware is a Metroidvania 2D game made on unity with providing adventures experecne to players with some shooting mechanics killing enemy , dodging obstiles and so on. 
+Alienware is a Metroidvania 2D game made on unity which is themed on some alien planet shooting enemimes with providing adventures experience to players with some shooting mechanics killing enemy , dodging obstiles and so on. 
 
 Installation:
 
@@ -13,9 +13,13 @@ How to Play:
 
 The player can control the character using the WASD. The objective is to reach the end of each level without colliding with any obstacles.\
 Left Click = Shoot
+
 Right Click = Boost
+
 Down Arrow Key = Roll
+
 In Roll Mode Left Click = Plant mine
+
 Double space = Double Jump
 
 Development:
@@ -33,3 +37,14 @@ Sample Images:
 ![image](https://user-images.githubusercontent.com/104272327/224029105-0bf5a0fd-3587-4a10-82c9-708b7719124e.png)
 
 ![image](https://user-images.githubusercontent.com/104272327/224029767-246f641e-ec87-4295-9816-1823ad5ee8bd.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224089665-71e9833b-d537-43ce-90c0-d9754d10e556.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224089817-b536afc9-f404-46b0-a484-853e9c6d5b9b.png)
+
+![image](https://user-images.githubusercontent.com/104272327/224090740-98d500bf-c208-4718-9108-9502f7df4455.png)
+
+
+
+
+
